@@ -1,0 +1,73 @@
+body {
+    background-color: #030303;
+    color: white;
+}
+
+a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    text-decoration: none;
+    letter-spacing: 0px;
+}
+
+.about {
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    position: fixed;
+    top: 7.5%
+}
+.project {
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    position: fixed;
+    top: 15%
+}
+.status {
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    position: fixed;
+    top: 22.5%
+}
+.notes {
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    position: fixed;
+    top: 30%
+}
+.favorites {
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    position: fixed;
+    top: 37.5%
+}
+.schedule {
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5%;
+    position: fixed;
+    top: 45%
+}
+.text1 {
+    font-size: 4%;
+    position: fixed;
+    bottom: 0%;
+    left: 0.25%;
+}
+.text2 {
+    font-size: 4%;
+    position: fixed;
+    bottom: 0%;
+    right: 0.25%;
+}
+.text3 {
+    font-size: 4%;
+    position: fixed;
+    top: 0%;
+    right: 0.25%;
+}
